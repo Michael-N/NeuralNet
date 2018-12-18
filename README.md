@@ -20,7 +20,11 @@
 
 ### Class ```Matrix```
 #### Properties
+- ```values```: the array that stores the  nested arrays and values for the Matrix... (should never be modified directly...)
 #### Methods
+- ```multiply(otherVector)```: returns the matrix multiplication of the two matricies as a new matrix instance
+- ```toString```: returns a string representation of the object
+- ```__str__```: syntatic sugar for str(thisMatrixInstance)
 
 ### Class ```Vector```
 #### Properties
