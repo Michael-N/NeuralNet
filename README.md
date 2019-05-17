@@ -4,6 +4,9 @@
 - Date: 12/16/18
 - @University of Tulsa
 - Description: Code for implementing a small neural network; (also contains a lib for LinearAlgebra operations on matricies and vectors)
+> UPDATE! as of lately the code for the neural net has been kept on the pc and not been pushed; this project is now going to evolve... 
+A private repo will host the neural net code that I am working on; I plan to make it public but would like more freedom to expirament; if you would like to view msg me and I will see about making it public. 
+
 ## About:
 - An expirament to code a neural network using matrix operations
 - The file ```LinearAlgebra.py``` contains classes for matrix,vector,and general linear algebra operations and structures
